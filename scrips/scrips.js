@@ -32,14 +32,14 @@ console.log(operacionesBasicas);
 
 
     // Ingresar Datos Externos
-    camper.nombre = prompt("Ingrese su Nombre Completo");
+    camper.Nombre = prompt("Ingrese su Nombre Completo");
     camper.Apellido = prompt("Ingrese sus apellidos");
-    camper.indetificacion = prompt("Ingrese su numero de identificacion");
-    camper.direccion = prompt("Ingrese su direccion");
-    camper.acudiente = prompt("Ingrese el nombre de su acudiente");     
-    camper.celular = prompt("Ingrese su numero de celular");
+    camper.Indetificacion = prompt("Ingrese su numero de identificacion");
+    camper.Direccion = prompt("Ingrese su direccion");
+    camper.Acudiente = prompt("Ingrese el nombre de su acudiente");     
+    camper.Celular = prompt("Ingrese su numero de celular");
     camper.EstadoProceso = prompt("Ingrese el estado del proceso");
-    camper.riesgo = prompt("Ingrese el nivel de riesgo");
+    camper.Riesgo = prompt("Ingrese el nivel de riesgo");
     console.log(camper);
 
     
